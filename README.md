@@ -1,5 +1,3 @@
-🧠🧠🧠🧠🧠🧠🧠🧠🧠🧠🧠🧠🧠🧠🧠🧠🧠🧠🧠🧠🧠🧠🧠
-
 # typrose
 
 Typography styles for Tailwind CSS v4. A CSS-native alternative to [@tailwindcss/typography](https://github.com/tailwindlabs/tailwindcss-typography).
