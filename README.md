@@ -31,7 +31,8 @@ One advantage of this CSS-native approach is the ability to control spacing and 
 Reduce or increase all vertical spacing:
 
 ```css
-.prose-tight { --prose-scale: 0.75; }
+.prose-tight { --prose-scale: 0.6; }
+.prose-loose { --prose-scale: 1.2; }
 ```
 
 Scale font size independently from spacing:
