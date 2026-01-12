@@ -1,6 +1,6 @@
 {
   "name": "typrose",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Typography styles for Tailwind CSS v4. A CSS-native alternative to @tailwindcss/typography.",
   "keywords": [
     "tailwind",
