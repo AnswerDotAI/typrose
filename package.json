@@ -1,0 +1,28 @@
+{
+  "name": "typrose",
+  "version": "0.1.0",
+  "description": "Typography styles for Tailwind CSS v4. A CSS-native alternative to @tailwindcss/typography.",
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "typography",
+    "prose",
+    "css",
+    "styling"
+  ],
+  "homepage": "https://github.com/answerdotai/typrose#readme",
+  "bugs": {
+    "url": "https://github.com/answerdotai/typrose/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/answerdotai/typrose.git"
+  },
+  "license": "MIT",
+  "author": "Jeremy Howard. Based on @tailwindcss/typography by Tailwind Labs.",
+  "type": "commonjs",
+  "main": "typrose.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
