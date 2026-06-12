@@ -156,11 +156,12 @@
   
   /* Table */
   table {
-    width: 100%; table-layout: auto;
-    font-size: 0.875em; line-height: 1.5;
-    margin: calc(var(--sp) * 2) 0;
+    display: block; width: fit-content; max-width: 100%;
+    overflow-x: auto; border-collapse: collapse;
+    font-size: 0.875em; line-height: 1.5; margin: calc(var(--sp) * 2) 0;
   }
-  th, td { text-align: start; }
+
+  th, td { text-align: start; overflow-wrap: break-word; }
   thead { border-bottom: 1px solid var(--prose-th-borders); }
   thead th {
     color: var(--prose-headings); font-weight: 600; vertical-align: bottom;
