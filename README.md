@@ -4,7 +4,7 @@ Typography styles for Tailwind CSS v4. A CSS-native alternative to [@tailwindcss
 
 ## What is this?
 
-The official Tailwind Typography plugin provides beautiful typographic defaults for rendering prose content (like markdown). This package is a CSS-only port of that plugin, designed for Tailwind CSS v4.
+The official Tailwind Typography plugin provides beautiful typographic defaults for rendering prose content (like markdown). This package started as a CSS-only port of that plugin, although it's since been further restructured for clarity and correctness.
 
 By using plain CSS instead of a JavaScript plugin, customization becomes simpler and more direct. We've also reduced the default vertical spacing to be more in line with traditional book-style typography, which many find more visually balanced for long-form reading.
 
